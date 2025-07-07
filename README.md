@@ -1,1 +1,1 @@
-# cpractice
+This folder contains some of the very first programs I wrote during college. At the time, I was still learning how to structure and write code properly, and ChatGPT helped guide me through it. While some parts were generated with assistance, I made sure to understand every single line—either by asking questions or studying the concepts. These programs represent an important part of my learning journey, and I’m uploading them here to preserve those memories and the progress I’ve made.
